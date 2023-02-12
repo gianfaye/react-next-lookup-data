@@ -250,6 +250,12 @@
   }
 }
 
+.searchBar {
+  padding: 5px;
+  min-width: 200px;
+  margin: 0 10px;
+}
+
 @media (prefers-color-scheme: dark) {
   .vercelLogo {
     filter: invert(1);
