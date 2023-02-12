@@ -1,6 +1,4 @@
-"use client"
-import type { NextPage } from 'next'
-import styles from './page.module.css'
+import styles from '../app/page.module.css'
 import Link from 'next/link'
 
 /*
